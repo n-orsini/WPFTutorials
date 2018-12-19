@@ -21,6 +21,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controls Tutorials", "Contr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleForm", "SimpleForm\SimpleForm.csproj", "{7EB482CE-792D-49E2-AFCB-8671D2551A43}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Binding Tutorials", "Data Binding Tutorials", "{0F04FE89-BF1F-4E5D-994E-71B450FCF2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBindingOneWay", "DataBindingOneWay\DataBindingOneWay.csproj", "{067DB5D4-8A5A-4CDF-BA19-4DB4D3237CF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,10 @@ Global
 		{7EB482CE-792D-49E2-AFCB-8671D2551A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB482CE-792D-49E2-AFCB-8671D2551A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB482CE-792D-49E2-AFCB-8671D2551A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067DB5D4-8A5A-4CDF-BA19-4DB4D3237CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067DB5D4-8A5A-4CDF-BA19-4DB4D3237CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067DB5D4-8A5A-4CDF-BA19-4DB4D3237CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067DB5D4-8A5A-4CDF-BA19-4DB4D3237CF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +75,7 @@ Global
 		{FB2B8B87-0C72-402A-A274-EE9EBB650A42} = {A70A0B37-146A-43E1-B794-4453763B700D}
 		{6D338049-92E3-4CAC-97D4-9993F3555382} = {A70A0B37-146A-43E1-B794-4453763B700D}
 		{7EB482CE-792D-49E2-AFCB-8671D2551A43} = {7C7E0CCF-73AF-4A4A-8770-DD28B41D256F}
+		{067DB5D4-8A5A-4CDF-BA19-4DB4D3237CF5} = {0F04FE89-BF1F-4E5D-994E-71B450FCF2A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0F157C89-1E77-4EC6-B6EA-44DC41A672BB}
